@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "thinking-outside-the-box"
+version = "0.1.0"
+description = "Reproducible rolling-window KV cache experiments"
+requires-python = ">=3.11"
+dependencies = ["torch", "transformers==5.16.1", "accelerate==1.12.0", "tqdm", "matplotlib"]
+
+[project.optional-dependencies]
+glimmer = ["bitsandbytes==0.50.2"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

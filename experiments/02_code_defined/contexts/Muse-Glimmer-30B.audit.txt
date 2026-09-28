@@ -1,0 +1,49 @@
+CSV rows match regenerated trials.
+distance,n,final_raw_contains_answer,kv_scoring_cache_contains_answer
+-10,100,100,100
+-9,100,100,100
+-8,100,100,100
+-7,100,100,100
+-6,100,100,100
+-5,100,100,100
+-4,100,100,100
+-3,100,100,100
+-2,100,100,100
+-1,100,100,100
+0,100,100,100
+1,100,0,100
+2,100,0,0
+3,100,0,0
+4,100,0,0
+5,100,0,0
+6,100,0,0
+7,100,0,0
+8,100,0,0
+9,100,0,0
+10,100,0,0
+
+Examples for distance=2
+----------------------------------------------------------------------------------------
+answer_text='FAULT' answer_id=8784
+prompt_tokens=530 secret_index=16
+final_raw_start=18 kv_scoring_start=17
+answer_in_final_raw=False
+answer_in_kv_scoring=False
+final_raw_prefix= ' document contains ordinary background notes about trees, roads, weather, tools, books, chairs, lamps, windows, and quiet rooms. The document contains ordinary'
+kv_scoring_prefix= ' The document contains ordinary background notes about trees, roads, weather, tools, books, chairs, lamps, windows, and quiet rooms. The document contains'
+----------------------------------------------------------------------------------------
+answer_text='LE' answer_id=1351
+prompt_tokens=530 secret_index=16
+final_raw_start=18 kv_scoring_start=17
+answer_in_final_raw=False
+answer_in_kv_scoring=False
+final_raw_prefix= ' document contains ordinary background notes about trees, roads, weather, tools, books, chairs, lamps, windows, and quiet rooms. The document contains ordinary'
+kv_scoring_prefix= ' The document contains ordinary background notes about trees, roads, weather, tools, books, chairs, lamps, windows, and quiet rooms. The document contains'
+----------------------------------------------------------------------------------------
+answer_text='IT' answer_id=1688
+prompt_tokens=530 secret_index=16
+final_raw_start=18 kv_scoring_start=17
+answer_in_final_raw=False
+answer_in_kv_scoring=False
+final_raw_prefix= ' document contains ordinary background notes about trees, roads, weather, tools, books, chairs, lamps, windows, and quiet rooms. The document contains ordinary'
+kv_scoring_prefix= ' The document contains ordinary background notes about trees, roads, weather, tools, books, chairs, lamps, windows, and quiet rooms. The document contains'

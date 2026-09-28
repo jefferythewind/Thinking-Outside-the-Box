@@ -1,0 +1,122 @@
+{
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "54f027cd6727be479690609fb624889fefc40500ac8d5dc8bef22e45465c5bd3"
+    },
+    {
+      "path": "configs/run.json",
+      "sha256": "ecec76af0bc4b61597384631978bf958a74e02492d66d163c6a2c2fb85a536a5"
+    },
+    {
+      "path": "contexts/Qwen2.5-0.5B-Instruct.md",
+      "sha256": "15e2f5d460fa7b5c835d828ef5d2f9ba334fc3e63473be8e19c82f766de4b772"
+    },
+    {
+      "path": "figures/Meta-Llama-3.1-8B-Instruct.png",
+      "sha256": "531a5dbc6c707f099cf286978c8ed87b3cec7a16b50454f3a378deaa5cd2483d"
+    },
+    {
+      "path": "figures/Mistral-7B-Instruct-v0.1.png",
+      "sha256": "fc0f7166fa69d910b9e5edbc6f1371a64a0c02311e29795a3bf25cedd5284007"
+    },
+    {
+      "path": "figures/Muse-Glimmer-30B.png",
+      "sha256": "e5c42f4922df11009b2a0011da3d9ebb55f5bb367130a7e409a223f82694a7c2"
+    },
+    {
+      "path": "figures/Qwen2.5-0.5B-Instruct.png",
+      "sha256": "7ec15a597ea31061d9de10e7ce4730f215c53cb3e7db148421516af18c103190"
+    },
+    {
+      "path": "figures/Qwen2.5-3B-Instruct.png",
+      "sha256": "414dce648edecd02732229f73c0de66748de0505fb419455cce6ebcb4c303fd6"
+    },
+    {
+      "path": "figures/experiment1_five_models_color.csv",
+      "sha256": "249a870932cf2ec2b71c02817fb9ab3af659109a464c50e373a33ef30400d704"
+    },
+    {
+      "path": "figures/experiment1_five_models_color.md",
+      "sha256": "204dc48e947d33d9a9b36fb37fa3fbf7523becd9552bed22ad4bd173a1bc5791"
+    },
+    {
+      "path": "figures/experiment1_five_models_color.pdf",
+      "sha256": "38294d03728a4e194888c35335cf72722b8c19e0033307defcac1baae8b32a46"
+    },
+    {
+      "path": "figures/experiment1_five_models_color.png",
+      "sha256": "cf58b76d6d550585cc38c681d1209102e6b87bfa73d34da6ab53bc1bd42d0644"
+    },
+    {
+      "path": "figures/experiment1_five_models_grayscale.csv",
+      "sha256": "249a870932cf2ec2b71c02817fb9ab3af659109a464c50e373a33ef30400d704"
+    },
+    {
+      "path": "figures/experiment1_five_models_grayscale.md",
+      "sha256": "204dc48e947d33d9a9b36fb37fa3fbf7523becd9552bed22ad4bd173a1bc5791"
+    },
+    {
+      "path": "figures/experiment1_five_models_grayscale.pdf",
+      "sha256": "f2d3c7e2c2ffa417ba3c01fff2de188582a94ea5158029b0cb2b23fbc9a487d5"
+    },
+    {
+      "path": "figures/experiment1_five_models_grayscale.png",
+      "sha256": "d8dd889a9b1fe19151e5650d2db0ac19beba8fdd88ea9bfd586dc19b12437833"
+    },
+    {
+      "path": "results/Meta-Llama-3.1-8B-Instruct.csv",
+      "sha256": "ef723beb61d08549369767545636c60ccf6d9cc2fa0c335100eaa829af3698f9",
+      "original_checkpoint_path": "checkpoints/five_model_experiments_1_2/experiment1/Meta-Llama-3.1-8B-Instruct.csv"
+    },
+    {
+      "path": "results/Meta-Llama-3.1-8B-Instruct.metadata.json",
+      "sha256": "9318c0e003cd0d2e77e80669b497bf2a6ac4f431822ef5938004dd3eb95427d0",
+      "original_checkpoint_path": "checkpoints/five_model_experiments_1_2/experiment1/Meta-Llama-3.1-8B-Instruct.metadata.json"
+    },
+    {
+      "path": "results/Mistral-7B-Instruct-v0.1.csv",
+      "sha256": "e4b0db4ae7f2480c4404e225fe02023a5c073722c155115b3bc079bdb956e7f8",
+      "original_checkpoint_path": "checkpoints/five_model_experiments_1_2/experiment1/Mistral-7B-Instruct-v0.1.csv"
+    },
+    {
+      "path": "results/Mistral-7B-Instruct-v0.1.metadata.json",
+      "sha256": "1ee21de2fec98eff8909a856720cb2ce2cb48b0d093bc66402b76dc059ac12f8",
+      "original_checkpoint_path": "checkpoints/five_model_experiments_1_2/experiment1/Mistral-7B-Instruct-v0.1.metadata.json"
+    },
+    {
+      "path": "results/Muse-Glimmer-30B.csv",
+      "sha256": "325373c894ba863a4d19147163e7de3dd9e1f9b358dbe308f6f29166076553b2",
+      "original_checkpoint_path": "checkpoints/five_model_experiments_1_2/experiment1/Muse-Glimmer-30B.csv"
+    },
+    {
+      "path": "results/Muse-Glimmer-30B.metadata.json",
+      "sha256": "51af070421f0eb0f759a02d1ec77e3143390ddb735bc07f4b01dbd4d56273923",
+      "original_checkpoint_path": "checkpoints/five_model_experiments_1_2/experiment1/Muse-Glimmer-30B.metadata.json"
+    },
+    {
+      "path": "results/Qwen2.5-0.5B-Instruct.csv",
+      "sha256": "d9b8e38e4d59d156da01f6cdcbd7971d7cf04f2206ae76931ba44abec6cf268d",
+      "original_checkpoint_path": "checkpoints/five_model_experiments_1_2/experiment1/Qwen2.5-0.5B-Instruct.csv"
+    },
+    {
+      "path": "results/Qwen2.5-0.5B-Instruct.metadata.json",
+      "sha256": "3e7ca24e756aa199142c708ba2977c0b826604c8fbdad3d1eb61834dac326f0d",
+      "original_checkpoint_path": "checkpoints/five_model_experiments_1_2/experiment1/Qwen2.5-0.5B-Instruct.metadata.json"
+    },
+    {
+      "path": "results/Qwen2.5-3B-Instruct.csv",
+      "sha256": "1a2f602860d17514d9fd85c45f54f8c1e0b232f9d8ac719458a0766f98961052",
+      "original_checkpoint_path": "checkpoints/five_model_experiments_1_2/experiment1/Qwen2.5-3B-Instruct.csv"
+    },
+    {
+      "path": "results/Qwen2.5-3B-Instruct.metadata.json",
+      "sha256": "8af5f5f4ca169b37d728f98e7fe2b9510c25cb02a952a91f7340f12708f654b5",
+      "original_checkpoint_path": "checkpoints/five_model_experiments_1_2/experiment1/Qwen2.5-3B-Instruct.metadata.json"
+    },
+    {
+      "path": "results/summary.csv",
+      "sha256": "a4000eab11f01c1eb7dc4aecd78df0eef133d958e093d02bd90c2cf42cbaaeaf"
+    }
+  ]
+}

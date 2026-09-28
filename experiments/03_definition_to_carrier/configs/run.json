@@ -1,0 +1,65 @@
+{
+  "runner": "run_marker_grid.py",
+  "arguments": {
+    "window_size": 512,
+    "trials": 100,
+    "seed": 2,
+    "filler": "neutral",
+    "definition_gaps": "32,64,128,256,512,768,1024",
+    "boundary_offsets": "-32,0,32,64,128,256",
+    "leading_filler_tokens": 128,
+    "control_trials": 0
+  },
+  "models": [
+    {
+      "name": "Qwen2.5-0.5B-Instruct",
+      "label": "Qwen 0.5B",
+      "metadata": "results/rolling/Qwen2.5-0.5B-Instruct.metadata.json",
+      "batch_size": 4,
+      "arguments": {
+        "dtype": "bfloat16",
+        "device_map": "cuda"
+      }
+    },
+    {
+      "name": "Qwen2.5-3B-Instruct",
+      "label": "Qwen 3B",
+      "metadata": "results/rolling/Qwen2.5-3B-Instruct.metadata.json",
+      "batch_size": 4,
+      "arguments": {
+        "dtype": "bfloat16",
+        "device_map": "cuda"
+      }
+    },
+    {
+      "name": "Mistral-7B-Instruct-v0.1",
+      "label": "Mistral 7B",
+      "metadata": "results/rolling/Mistral-7B-Instruct-v0.1.metadata.json",
+      "batch_size": 4,
+      "arguments": {
+        "dtype": "bfloat16",
+        "device_map": "cuda"
+      }
+    },
+    {
+      "name": "Meta-Llama-3.1-8B-Instruct",
+      "label": "Llama 8B",
+      "metadata": "results/rolling/Meta-Llama-3.1-8B-Instruct.metadata.json",
+      "batch_size": 4,
+      "arguments": {
+        "dtype": "bfloat16",
+        "device_map": "cuda"
+      }
+    },
+    {
+      "name": "Muse-Glimmer-30B",
+      "label": "Glimmer 30B (NF4)",
+      "metadata": "results/rolling/Muse-Glimmer-30B.metadata.json",
+      "batch_size": 2,
+      "arguments": {
+        "dtype": "bfloat16",
+        "device_map": "cuda"
+      }
+    }
+  ]
+}

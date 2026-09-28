@@ -1,0 +1,8 @@
+{
+  "conditions": ["last_window", "full_prompt"],
+  "trials_per_cell_per_model": 20,
+  "selection_seed": 2026,
+  "selection": "Sample without replacement from saved rolling prompts; numeric cells and trial IDs sorted",
+  "batch_size": 1,
+  "source": "../results/rolling"
+}

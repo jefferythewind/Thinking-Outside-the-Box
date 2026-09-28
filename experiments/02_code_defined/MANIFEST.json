@@ -1,0 +1,142 @@
+{
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "20d219f1af8bcd9a7bcf252174b54ff9ca277ccaa0d5aefb413cb0212fba99b7"
+    },
+    {
+      "path": "configs/run.json",
+      "sha256": "045ec9da194143e6e6c26484d94b426adedca8fba14a5fa108bb2ce4cf93630f"
+    },
+    {
+      "path": "contexts/Meta-Llama-3.1-8B-Instruct.audit.txt",
+      "sha256": "2dda29bb871d84fda873ff78c6b3bfe4750db612572f6f99fdff81dfaa8668b0"
+    },
+    {
+      "path": "contexts/Mistral-7B-Instruct-v0.1.audit.txt",
+      "sha256": "1c4824eaa076037d1e0813606a7ef0938a4bc13e5ab1039aa1901bcf1fd24c6f"
+    },
+    {
+      "path": "contexts/Muse-Glimmer-30B.audit.txt",
+      "sha256": "c7e4fa3e0e7dfe4949436d8325ceb84d8fa9154f0c7f2759c84b819cfa2ddcc2"
+    },
+    {
+      "path": "contexts/Qwen2.5-0.5B-Instruct.audit.txt",
+      "sha256": "d011074191c05c8fb19c4fe21e9a500a1ce58b57d8792c1cbbb38a930fcab4e2"
+    },
+    {
+      "path": "contexts/Qwen2.5-0.5B-Instruct.md",
+      "sha256": "98fa843e0b137b8fc06e9637eea81fac4e3de0deaafadc62fd410c5cebde1f73"
+    },
+    {
+      "path": "contexts/Qwen2.5-3B-Instruct.audit.txt",
+      "sha256": "d011074191c05c8fb19c4fe21e9a500a1ce58b57d8792c1cbbb38a930fcab4e2"
+    },
+    {
+      "path": "figures/Meta-Llama-3.1-8B-Instruct.png",
+      "sha256": "b4902a1f24e2dc11654821beec4fa8c1a8376387362f8924e071cc07c2e2e342"
+    },
+    {
+      "path": "figures/Mistral-7B-Instruct-v0.1.png",
+      "sha256": "bce599dee488eb0969f0cb0fec9356c6249f5bead6b9ceb4015813258fa49941"
+    },
+    {
+      "path": "figures/Muse-Glimmer-30B.png",
+      "sha256": "a3886b18c5dfdcf2bd6998bd759c3a2f56e4db9dcc0798bb0efc909007596ce8"
+    },
+    {
+      "path": "figures/Qwen2.5-0.5B-Instruct.png",
+      "sha256": "6f18416f57484eaeaa35205581880a153358690e1f453f4b522e6282427e03ab"
+    },
+    {
+      "path": "figures/Qwen2.5-3B-Instruct.png",
+      "sha256": "51d25cde79d8fea80641fbc12d249b9ee21db1b9562295ce8aa609d1ab9b1266"
+    },
+    {
+      "path": "figures/experiment2_five_models_color.csv",
+      "sha256": "db39b938b65d832cbd2c713f0ce1fe0952d1c4ddf7fe752ab537ee174c96010c"
+    },
+    {
+      "path": "figures/experiment2_five_models_color.md",
+      "sha256": "fc7c7a338d627be926a046860ac89e2722710af569a75f2eb33ec40c87998612"
+    },
+    {
+      "path": "figures/experiment2_five_models_color.pdf",
+      "sha256": "42cb5e3bffa67b7fcc422e3263df5329f93aebc019145604406bf35d6bac58c9"
+    },
+    {
+      "path": "figures/experiment2_five_models_color.png",
+      "sha256": "b597f6530fb9a9055c03b654879166c2ec43781bec39215f54c67be16259024d"
+    },
+    {
+      "path": "figures/experiment2_five_models_grayscale.csv",
+      "sha256": "db39b938b65d832cbd2c713f0ce1fe0952d1c4ddf7fe752ab537ee174c96010c"
+    },
+    {
+      "path": "figures/experiment2_five_models_grayscale.md",
+      "sha256": "fc7c7a338d627be926a046860ac89e2722710af569a75f2eb33ec40c87998612"
+    },
+    {
+      "path": "figures/experiment2_five_models_grayscale.pdf",
+      "sha256": "e9a086c6806290804d00e2917e2cdd01207b16276c9f9faef855850383817027"
+    },
+    {
+      "path": "figures/experiment2_five_models_grayscale.png",
+      "sha256": "5ebe3c67c196076ab26276ac500e0f6ed3840195f7322e2f4ae7c61fb3431c27"
+    },
+    {
+      "path": "results/Meta-Llama-3.1-8B-Instruct.csv",
+      "sha256": "4491e417562fe87eaf89fc6774c84443e397ea14b88c5d3ff7c16c270fc220e0",
+      "original_checkpoint_path": "checkpoints/five_model_experiments_1_2/experiment2/Meta-Llama-3.1-8B-Instruct.csv"
+    },
+    {
+      "path": "results/Meta-Llama-3.1-8B-Instruct.metadata.json",
+      "sha256": "3ed266df90f36cb3a07cd7d472f4136532d717d4b5cca312821a1742ffed546c",
+      "original_checkpoint_path": "checkpoints/five_model_experiments_1_2/experiment2/Meta-Llama-3.1-8B-Instruct.metadata.json"
+    },
+    {
+      "path": "results/Mistral-7B-Instruct-v0.1.csv",
+      "sha256": "97f2153d60b75986026d5ee8b2f1075b3f0ee7402888ce03e3988da77f7ebc45",
+      "original_checkpoint_path": "checkpoints/five_model_experiments_1_2/experiment2/Mistral-7B-Instruct-v0.1.csv"
+    },
+    {
+      "path": "results/Mistral-7B-Instruct-v0.1.metadata.json",
+      "sha256": "00c7b1459ffa485278e82b55fc6cb1c4989b86e973a52eb56f2ac5db8648180e",
+      "original_checkpoint_path": "checkpoints/five_model_experiments_1_2/experiment2/Mistral-7B-Instruct-v0.1.metadata.json"
+    },
+    {
+      "path": "results/Muse-Glimmer-30B.csv",
+      "sha256": "dc0bdec5636e18739f94aec366e363097fb03ca5236e3b979edf2b2769d71089",
+      "original_checkpoint_path": "checkpoints/five_model_experiments_1_2/experiment2/Muse-Glimmer-30B.csv"
+    },
+    {
+      "path": "results/Muse-Glimmer-30B.metadata.json",
+      "sha256": "8be1289114c4a49113b943e64c778685dfc8674f62984df420cb3a4f64e30495",
+      "original_checkpoint_path": "checkpoints/five_model_experiments_1_2/experiment2/Muse-Glimmer-30B.metadata.json"
+    },
+    {
+      "path": "results/Qwen2.5-0.5B-Instruct.csv",
+      "sha256": "6db65325effeb1813bee2cc1c6a779fff56723af5f08768107e27ba7d585e5a6",
+      "original_checkpoint_path": "checkpoints/five_model_experiments_1_2/experiment2/Qwen2.5-0.5B-Instruct.csv"
+    },
+    {
+      "path": "results/Qwen2.5-0.5B-Instruct.metadata.json",
+      "sha256": "4337f97fb4fb3015600b4d5d3e502d5927e4e32baa2ad5d87676a3f43600f464",
+      "original_checkpoint_path": "checkpoints/five_model_experiments_1_2/experiment2/Qwen2.5-0.5B-Instruct.metadata.json"
+    },
+    {
+      "path": "results/Qwen2.5-3B-Instruct.csv",
+      "sha256": "0a29b67eeeda04a8b89e4e9851ff609408a17df6e86c85eadf61d29d19fa16c3",
+      "original_checkpoint_path": "checkpoints/five_model_experiments_1_2/experiment2/Qwen2.5-3B-Instruct.csv"
+    },
+    {
+      "path": "results/Qwen2.5-3B-Instruct.metadata.json",
+      "sha256": "e3abc50bc7ddfd3d9ff3e1213256cb75e926da8ad595ea84c6b531ec54d1da1f",
+      "original_checkpoint_path": "checkpoints/five_model_experiments_1_2/experiment2/Qwen2.5-3B-Instruct.metadata.json"
+    },
+    {
+      "path": "results/summary.csv",
+      "sha256": "964325627cb8bdc15249b419427427a3b2eb10c429e5f19a2dd33e60a820a474"
+    }
+  ]
+}

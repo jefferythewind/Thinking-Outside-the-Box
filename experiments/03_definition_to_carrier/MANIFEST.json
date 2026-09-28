@@ -1,0 +1,261 @@
+{
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "4fa91fdce71024dd049f8225a7b51cf472ef34f3199a418f39af1cea8d9d691d"
+    },
+    {
+      "path": "configs/controls.json",
+      "sha256": "2cb7c4d37a723d85180bf6aa26c5d2bf5ab194ef407d9af7324f9971904ccba8"
+    },
+    {
+      "path": "configs/run.json",
+      "sha256": "653d980e345dc3dec5fc89e2f7f9a1ca33949734776ac387fca6cbecd321c56a"
+    },
+    {
+      "path": "contexts/Qwen2.5-0.5B-Instruct.md",
+      "sha256": "d00ac072ee4093931739c0a8c66fa610595409cf5605e423d56c40cddd8274a4"
+    },
+    {
+      "path": "figures/controls/Meta-Llama-3.1-8B-Instruct.png",
+      "sha256": "ccf81386bd2df335303a26d22a307d4edc9d5ed65e0b2d17481483a23fc922de",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/controls/Meta-Llama-3.1-8B-Instruct.png"
+    },
+    {
+      "path": "figures/controls/Mistral-7B-Instruct-v0.1.png",
+      "sha256": "a77c132a7b3ef7e75b4f63f9d5a9d4c6b3299a37e88709a5374f3ad51297dad0",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/controls/Mistral-7B-Instruct-v0.1.png"
+    },
+    {
+      "path": "figures/controls/Muse-Glimmer-30B.png",
+      "sha256": "8e836b97bf5100f3a0bf9ee5382af5f6f844d049eb627422f51971017fba04f5",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/controls/Muse-Glimmer-30B.png"
+    },
+    {
+      "path": "figures/controls/Qwen2.5-0.5B-Instruct.png",
+      "sha256": "9b7529e5ead1726fe61e29124e11515dce5299ed8498eff30dd4985853171e32",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/controls/Qwen2.5-0.5B-Instruct.png"
+    },
+    {
+      "path": "figures/controls/Qwen2.5-3B-Instruct.png",
+      "sha256": "d3bfc939b2984ba1e479a393f8be0ef5186021a4acc553497372fa0de91f78b6",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/controls/Qwen2.5-3B-Instruct.png"
+    },
+    {
+      "path": "figures/experiment3.csv",
+      "sha256": "4701a7a63940b9e68a0b9be6e07a000437315f1ff4acd556d5c4005317a277eb"
+    },
+    {
+      "path": "figures/experiment3.pdf",
+      "sha256": "e93dedda21194b76e9cb897850e042c2b774d7a340b1151bbfc6fb52903ccb86"
+    },
+    {
+      "path": "figures/experiment3.png",
+      "sha256": "25dd0ecd42489b35d1538e223ab70cd9f2d4e4856b88d69eec8c6bd20272acf7"
+    },
+    {
+      "path": "figures/rolling/Meta-Llama-3.1-8B-Instruct.png",
+      "sha256": "a30b2cfe9d177244217a431dd6a04b630ddbe40775480fe9950fdf94c28f792f",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/rolling/Meta-Llama-3.1-8B-Instruct.png"
+    },
+    {
+      "path": "figures/rolling/Mistral-7B-Instruct-v0.1.png",
+      "sha256": "f1fed3effd2fbd390aa061a4d57f3bd932e23a680e5d5807a3dfb5fedd1a8ac9",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/rolling/Mistral-7B-Instruct-v0.1.png"
+    },
+    {
+      "path": "figures/rolling/Muse-Glimmer-30B.png",
+      "sha256": "17f5816948e1a4b2ae1b94f78bec97b50568bf52dde67834fc4250701665e9c7",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/rolling/Muse-Glimmer-30B.png"
+    },
+    {
+      "path": "figures/rolling/Qwen2.5-0.5B-Instruct.png",
+      "sha256": "4ff624151109429e9b1552feabd1245739334de15336bb7d3f84fa8b15820cd5",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/rolling/Qwen2.5-0.5B-Instruct.png"
+    },
+    {
+      "path": "figures/rolling/Qwen2.5-3B-Instruct.png",
+      "sha256": "5bd95022a1607b378479490bcf2845b5747d80e4fea353b1f8515813cfbb84ba",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/rolling/Qwen2.5-3B-Instruct.png"
+    },
+    {
+      "path": "results/controls/Meta-Llama-3.1-8B-Instruct.csv",
+      "sha256": "84141082f2dbea49c3dee164f6c4a2690ebcbacfb6190976f9ad24aa2b972ecd",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/controls/Meta-Llama-3.1-8B-Instruct.csv"
+    },
+    {
+      "path": "results/controls/Meta-Llama-3.1-8B-Instruct.metadata.json",
+      "sha256": "da022ce18a5ce513c511f8a09a234e0313990d474366df811289b216111dfc8e",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/controls/Meta-Llama-3.1-8B-Instruct.metadata.json"
+    },
+    {
+      "path": "results/controls/Meta-Llama-3.1-8B-Instruct.summary.txt",
+      "sha256": "9c9f007d0b9cd43389abb772d5d46f64c80c6a7a55d1e314e9f010ef91662f75",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/controls/Meta-Llama-3.1-8B-Instruct.summary.txt"
+    },
+    {
+      "path": "results/controls/Meta-Llama-3.1-8B-Instruct.trials.jsonl.gz",
+      "sha256": "0456cb3eac573a32e1b509093a8236d6eb76dc2f5c72eec2723a2ed3c9e9ed44",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/controls/Meta-Llama-3.1-8B-Instruct.trials.jsonl.gz"
+    },
+    {
+      "path": "results/controls/Mistral-7B-Instruct-v0.1.csv",
+      "sha256": "9cf2adc0d536ce4600d64bb14e6fe2e8423a538608cc1b9e7802b3b6b0b57100",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/controls/Mistral-7B-Instruct-v0.1.csv"
+    },
+    {
+      "path": "results/controls/Mistral-7B-Instruct-v0.1.metadata.json",
+      "sha256": "c845af3dd4ce2073640ce227cbeff2e1f3d6acfc9af7c23fc6d4af6a38a06cb1",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/controls/Mistral-7B-Instruct-v0.1.metadata.json"
+    },
+    {
+      "path": "results/controls/Mistral-7B-Instruct-v0.1.summary.txt",
+      "sha256": "cb08f0bbb976de5c1de6f2706fa05108628ae4a918e0fb22e812b85f0d776b52",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/controls/Mistral-7B-Instruct-v0.1.summary.txt"
+    },
+    {
+      "path": "results/controls/Mistral-7B-Instruct-v0.1.trials.jsonl.gz",
+      "sha256": "5f954f08e0c80fb6444d82fe27486c00c88881544c0f6c0e291e99092dc6c77c",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/controls/Mistral-7B-Instruct-v0.1.trials.jsonl.gz"
+    },
+    {
+      "path": "results/controls/Muse-Glimmer-30B.csv",
+      "sha256": "47e0341a558f473281bf12a28463b0e13412cf6d94260b1ef2f2da1f5d28a5b9",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/controls/Muse-Glimmer-30B.csv"
+    },
+    {
+      "path": "results/controls/Muse-Glimmer-30B.metadata.json",
+      "sha256": "e2b147e866587b22d581659f43d1c7d3435b464003fb2928c77741b6570ea449",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/controls/Muse-Glimmer-30B.metadata.json"
+    },
+    {
+      "path": "results/controls/Muse-Glimmer-30B.summary.txt",
+      "sha256": "4de2ca99c0e4d29e4dbc509b7139f72e954e147e8e3890c88b6c53738c34462c",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/controls/Muse-Glimmer-30B.summary.txt"
+    },
+    {
+      "path": "results/controls/Muse-Glimmer-30B.trials.jsonl.gz",
+      "sha256": "23e1ab270218eb6ee5ee979de322110e976af80368913a829787b726036d26ab",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/controls/Muse-Glimmer-30B.trials.jsonl.gz"
+    },
+    {
+      "path": "results/controls/Qwen2.5-0.5B-Instruct.csv",
+      "sha256": "6be17df1ead080a3103336197915b1cf5edbb0b627a3f0c5329bc2090a975d13",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/controls/Qwen2.5-0.5B-Instruct.csv"
+    },
+    {
+      "path": "results/controls/Qwen2.5-0.5B-Instruct.metadata.json",
+      "sha256": "8313036dfd90a84f3036b2a51f25140022aa575e38ecec81206f436240c4b26e",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/controls/Qwen2.5-0.5B-Instruct.metadata.json"
+    },
+    {
+      "path": "results/controls/Qwen2.5-0.5B-Instruct.summary.txt",
+      "sha256": "7e4a2cb03db308e68421747e041fce6735db7b9da5dcd83c26e7cbbac401915b",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/controls/Qwen2.5-0.5B-Instruct.summary.txt"
+    },
+    {
+      "path": "results/controls/Qwen2.5-0.5B-Instruct.trials.jsonl.gz",
+      "sha256": "48a3e17d010b7c609a602ae54e930a836610bc72842b83cf4c5aa7fda2f0f242",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/controls/Qwen2.5-0.5B-Instruct.trials.jsonl.gz"
+    },
+    {
+      "path": "results/controls/Qwen2.5-3B-Instruct.csv",
+      "sha256": "4b23517300679a6fdde1a018007c0f1a1638fc36e00f08b44c46393cba9ed5dd",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/controls/Qwen2.5-3B-Instruct.csv"
+    },
+    {
+      "path": "results/controls/Qwen2.5-3B-Instruct.metadata.json",
+      "sha256": "1b772feb7c3abb3d4bc982f9929075e47cf68824db4fa3310f4d36d2ab4dd188",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/controls/Qwen2.5-3B-Instruct.metadata.json"
+    },
+    {
+      "path": "results/controls/Qwen2.5-3B-Instruct.summary.txt",
+      "sha256": "f36243fe7e090d52f86a586a4e68e3b3da956e75aa0c0bf1113c06503b9d7955",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/controls/Qwen2.5-3B-Instruct.summary.txt"
+    },
+    {
+      "path": "results/controls/Qwen2.5-3B-Instruct.trials.jsonl.gz",
+      "sha256": "48a3e17d010b7c609a602ae54e930a836610bc72842b83cf4c5aa7fda2f0f242",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/controls/Qwen2.5-3B-Instruct.trials.jsonl.gz"
+    },
+    {
+      "path": "results/rolling/Meta-Llama-3.1-8B-Instruct.csv",
+      "sha256": "b85ea5c19600d25e208881838e5961a4c5275151188a5ee3b9a571d5c2a03ede",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/rolling/Meta-Llama-3.1-8B-Instruct.csv"
+    },
+    {
+      "path": "results/rolling/Meta-Llama-3.1-8B-Instruct.metadata.json",
+      "sha256": "ea452911d4c64e03d310c909244885093493df42c0b0b915028ae9db085682b5",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/rolling/Meta-Llama-3.1-8B-Instruct.metadata.json"
+    },
+    {
+      "path": "results/rolling/Meta-Llama-3.1-8B-Instruct.trials.jsonl.gz",
+      "sha256": "39f3d4e4de7e7759e3dca4842b64a6a88dc80cfd395d6d75acdfb7f3fb8a6656",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/rolling/Meta-Llama-3.1-8B-Instruct.trials.jsonl.gz"
+    },
+    {
+      "path": "results/rolling/Mistral-7B-Instruct-v0.1.csv",
+      "sha256": "147546d556ea98331d3bd867568d10ce563bca82915c9212422e807f27ce2c2a",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/rolling/Mistral-7B-Instruct-v0.1.csv"
+    },
+    {
+      "path": "results/rolling/Mistral-7B-Instruct-v0.1.metadata.json",
+      "sha256": "3ef38ac860b806bbd4cfb3e60ed0a1894e3ce74ed3e9247c96474b15ffca934d",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/rolling/Mistral-7B-Instruct-v0.1.metadata.json"
+    },
+    {
+      "path": "results/rolling/Mistral-7B-Instruct-v0.1.trials.jsonl.gz",
+      "sha256": "642303abd74d28de64d786d1f38ef57a89a10b9b1405202c099f8da743778e86",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/rolling/Mistral-7B-Instruct-v0.1.trials.jsonl.gz"
+    },
+    {
+      "path": "results/rolling/Muse-Glimmer-30B.csv",
+      "sha256": "6534bf72111b2fb5a600cf2acddb9e538d43fe10d147c58cd7d6e84cdc20bc1a",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/rolling/Muse-Glimmer-30B.csv"
+    },
+    {
+      "path": "results/rolling/Muse-Glimmer-30B.metadata.json",
+      "sha256": "e87d23c821fe615b1ca47d3638a61bda9934ed4760f61dcde7f06e61bcb56c71",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/rolling/Muse-Glimmer-30B.metadata.json"
+    },
+    {
+      "path": "results/rolling/Muse-Glimmer-30B.trials.jsonl.gz",
+      "sha256": "d9d215cd877a290e0f6b78db95bc502b0d7a5f235355a02dbaad6ed83a022059",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/rolling/Muse-Glimmer-30B.trials.jsonl.gz"
+    },
+    {
+      "path": "results/rolling/Qwen2.5-0.5B-Instruct.csv",
+      "sha256": "163617ad83e6f7a77b92ca4b98c7f8165758133ef25e7c10d9a79ad4e7058636",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/rolling/Qwen2.5-0.5B-Instruct.csv"
+    },
+    {
+      "path": "results/rolling/Qwen2.5-0.5B-Instruct.metadata.json",
+      "sha256": "346b97f576a3386279a29de151eb351690f95c1a50016bbfe3ad495d4adca2e2",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/rolling/Qwen2.5-0.5B-Instruct.metadata.json"
+    },
+    {
+      "path": "results/rolling/Qwen2.5-0.5B-Instruct.trials.jsonl.gz",
+      "sha256": "454cd8a32040d4882e8afad606bc7a20a205934a9fd0dc37e74a4fe51911477c",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/rolling/Qwen2.5-0.5B-Instruct.trials.jsonl.gz"
+    },
+    {
+      "path": "results/rolling/Qwen2.5-3B-Instruct.csv",
+      "sha256": "4928a9dc6125c3fa9898d299ab0fb5a6b83eaedef9d3008f597140e608791991",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/rolling/Qwen2.5-3B-Instruct.csv"
+    },
+    {
+      "path": "results/rolling/Qwen2.5-3B-Instruct.metadata.json",
+      "sha256": "1f33e5631e667fe6f8eb3f2bbf785e66b17315ad23267725392f49519aa5c526",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/rolling/Qwen2.5-3B-Instruct.metadata.json"
+    },
+    {
+      "path": "results/rolling/Qwen2.5-3B-Instruct.trials.jsonl.gz",
+      "sha256": "454cd8a32040d4882e8afad606bc7a20a205934a9fd0dc37e74a4fe51911477c",
+      "original_checkpoint_path": "checkpoints/experiment3_fixed_grid/rolling/Qwen2.5-3B-Instruct.trials.jsonl.gz"
+    },
+    {
+      "path": "results/summary.csv",
+      "sha256": "97b4d19f730dfaed375a13ec339a0b8dac1640d73b113e3d8d34ed21d33b7254"
+    }
+  ]
+}

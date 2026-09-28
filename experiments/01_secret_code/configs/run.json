@@ -1,0 +1,59 @@
+{
+  "runner": "run.py",
+  "arguments": {
+    "window_size": 512,
+    "trials": 100,
+    "seed": 1,
+    "filler": "neutral",
+    "task": "code",
+    "distances": "-5,-4,-3,-2,-1,0,1,2,3,4,5",
+    "full_prompt": true
+  },
+  "models": [
+    {
+      "name": "Qwen2.5-0.5B-Instruct",
+      "label": "Qwen 0.5B",
+      "metadata": "results/Qwen2.5-0.5B-Instruct.metadata.json",
+      "arguments": {
+        "dtype": "bfloat16",
+        "device_map": "auto"
+      }
+    },
+    {
+      "name": "Qwen2.5-3B-Instruct",
+      "label": "Qwen 3B",
+      "metadata": "results/Qwen2.5-3B-Instruct.metadata.json",
+      "arguments": {
+        "dtype": "bfloat16",
+        "device_map": "auto"
+      }
+    },
+    {
+      "name": "Mistral-7B-Instruct-v0.1",
+      "label": "Mistral 7B",
+      "metadata": "results/Mistral-7B-Instruct-v0.1.metadata.json",
+      "arguments": {
+        "dtype": "bfloat16",
+        "device_map": "auto"
+      }
+    },
+    {
+      "name": "Meta-Llama-3.1-8B-Instruct",
+      "label": "Llama 8B",
+      "metadata": "results/Meta-Llama-3.1-8B-Instruct.metadata.json",
+      "arguments": {
+        "dtype": "bfloat16",
+        "device_map": "auto"
+      }
+    },
+    {
+      "name": "Muse-Glimmer-30B",
+      "label": "Glimmer 30B (NF4)",
+      "metadata": "results/Muse-Glimmer-30B.metadata.json",
+      "arguments": {
+        "dtype": "bfloat16",
+        "device_map": "cuda"
+      }
+    }
+  ]
+}
