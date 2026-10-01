@@ -4,7 +4,7 @@
 
 A fixed-size rolling KV cache retains previously computed states while processing a longer sequence. We test whether information from tokens outside the final raw window can still be used to retrieve a secret code. Five open-weight models are evaluated under **Rolling KV**, **Last Window** (recompute only the final raw window), and **Full Prompt** conditions. All experiments use a 512-token retained window and four-choice next-token scoring (25% chance accuracy). The runs used a single NVIDIA RTX 3090.
 
-[Paper PDF](paper/Thinking_Outside_the_Box.pdf) · [Methods and offset definitions](docs/METHODS.md) · [Models and numerical settings](docs/MODELS.md) · [Reproduction guide](docs/REPRODUCIBILITY.md)
+[Read the paper on arXiv](https://arxiv.org/abs/2609.34049) · [Repository PDF](paper/Thinking_Outside_the_Box.pdf) · [Methods and offset definitions](docs/METHODS.md) · [Models and numerical settings](docs/MODELS.md) · [Reproduction guide](docs/REPRODUCIBILITY.md)
 
 ## Experiment 1: Secret-code retrieval
 
@@ -56,4 +56,4 @@ See [Contributing](CONTRIBUTING.md) for development.
 
 ## License
 
-Source code is licensed under the [Apache License 2.0](LICENSE). The paper PDF and experiment figures are separate research materials; consult the paper's arXiv record for its publication license once available.
+Source code is licensed under the [Apache License 2.0](LICENSE). The paper PDF and experiment figures are separate research materials; consult the [arXiv record](https://arxiv.org/abs/2609.34049) for the paper's publication license.
